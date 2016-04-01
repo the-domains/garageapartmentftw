@@ -2,6 +2,7 @@ name: GarageApartmentFTW
 favicon: null
 layout_spectrum: 0.75606
 typography_spectrum: 0.19377
+title: 'A Build Guide and Thought Experiment '
 cta:
   domain: null
   bucket: null
